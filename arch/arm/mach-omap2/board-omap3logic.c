@@ -44,7 +44,6 @@
 #include <plat/gpmc-smsc911x.h>
 #include <plat/gpmc.h>
 #include <plat/sdrc.h>
-#include <plat/control.h>
 
 #define OMAP3LOGIC_SMSC911X_CS			1
 

@@ -32,7 +32,6 @@
 
 #include <plat/board.h>
 #include <plat/common.h>
-#include <plat/control.h>
 #include <plat/usb.h>
 #include <plat/mmc.h>
 

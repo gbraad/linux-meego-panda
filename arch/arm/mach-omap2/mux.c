@@ -23,12 +23,11 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
  *
  */
-#include <linux/module.h>
+#include <linux/kernel.h>
 #include <linux/init.h>
 #include <linux/io.h>
-#include <linux/slab.h>
-#include <linux/spinlock.h>
 #include <linux/list.h>
+#include <linux/slab.h>
 #include <linux/ctype.h>
 #include <linux/debugfs.h>
 #include <linux/seq_file.h>
@@ -37,7 +36,6 @@
 #include <asm/system.h>
 
 #include <plat/control.h>
-
 #include "mux.h"
 
 #define OMAP_MUX_BASE_OFFSET		0x30	/* Offset from CTRL_BASE */
