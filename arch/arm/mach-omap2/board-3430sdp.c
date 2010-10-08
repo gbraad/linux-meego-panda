@@ -43,7 +43,6 @@
 #include <plat/gpmc-smc91x.h>
 
 #include <mach/board-flash.h>
-
 #include "mux.h"
 #include "sdram-qimonda-hyb18m512160af-6.h"
 #include "hsmmc.h"

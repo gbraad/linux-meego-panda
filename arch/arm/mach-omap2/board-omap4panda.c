@@ -35,9 +35,10 @@
 #include <plat/board.h>
 #include <plat/common.h>
 #include <plat/control.h>
-#include <plat/timer-gp.h>
 #include <plat/usb.h>
 #include <plat/mmc.h>
+#include <plat/timer-gp.h>
+
 #include "hsmmc.h"
 
 

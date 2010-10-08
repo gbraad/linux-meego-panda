@@ -21,6 +21,7 @@
 #include <plat/nand.h>
 #include <plat/onenand.h>
 #include <plat/tc.h>
+
 #include <mach/board-flash.h>
 
 #define REG_FPGA_REV			0x10
